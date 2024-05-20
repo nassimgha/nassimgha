@@ -3,6 +3,7 @@
 - 🌱 I'm working on my capstone project with Vancouver Whitecaps FC. The project is predicting the performance of
     players in different teams and leagues.
 - 📫 Linkedin Profile: www.linkedin.com/in/nasim-ghazanfari
+- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 - 😄 Pronouns: She/ Her
 
 <!---
