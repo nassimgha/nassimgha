@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nasim Ghazanfari Nasrabadi @nassimgha
-- 🌱 I’m currently studying for a Master of Data Science at UBC Vancouver. I will graduate in June, 2024.
-- 🌱 I'm working on my capstone project with Vancouver Whitecaps FC. The project is predicting the performance of
+- 🌱 I have completed a Master of Data Science at UBC Vancouver. 
+- 🌱 I worked on my capstone project with Vancouver Whitecaps FC. The project was predicting the performance of
     players in different teams and leagues.
 - 📫 Linkedin Profile: www.linkedin.com/in/nasim-ghazanfari
 - 😄 Pronouns: She/ Her
